@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sérgio Gomes 🇵🇹🇩🇪
+- 👋 Hi, I’m Sérgio Gomes <img style="width:1em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-portugal_1f1f5-1f1f9.png" /> <img style="width:1em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-germany_1f1e9-1f1ea.png" />
 - 💻 11+ years experience in technology consulting
 - 👀 Special interest in the intersection of finance and technology 
 - 📚 I’m currently learning @salesforce and #blockchain
