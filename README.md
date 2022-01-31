@@ -5,7 +5,4 @@
 - 🤝 I’m looking to collaborate on technology projects as consultant or advisor (remote & async-first projects preferred)
 - 📩 How to reach me: https://sergioabegomes.com/#contact
 
-<!---
-vyraxo/vyraxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=vyraxo&color=brightgreen)
