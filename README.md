@@ -9,9 +9,11 @@
 
 ![](https://komarev.com/ghpvc/?username=vyraxo&color=brightgreen)
 
-# Selected Projects
+# Resources about remote and async work
 
+https://www.weareasync.com/education
 
+# How I work 
 
 # Thanks
 
