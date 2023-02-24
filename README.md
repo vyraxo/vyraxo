@@ -8,4 +8,4 @@
 
 Go #async, focus and get shit done.
 
-![](corporate_world.jpg)
+[<img src="corporate_world.jpg">](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
