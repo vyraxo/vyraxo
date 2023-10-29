@@ -13,7 +13,7 @@ Go #async, focus and get shit done.
 [<img src="corporate_world.jpg">](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings)
 
 
-# Forever Under Construction™<br/>
+# Forever Under Construction™
 
 <img src="underc3.gif">
 
